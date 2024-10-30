@@ -43,5 +43,5 @@ Welcome to the "AI Essentials" project, which showcases the implementation of se
 ## How to Run
 - Clone the Repository:
   ```bash
-     git clone https://github.com/SpanouMaria/AI-Essentials.git
-     cd AI-Essentials
+     git clone https://github.com/SpanouMaria/Artificial-Inteligence-Essentials.git
+     cd Artificial-Inteligence-Essentials
